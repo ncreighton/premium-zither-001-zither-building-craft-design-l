@@ -1,0 +1,2 @@
+# premium-zither-001-zither-building-craft-design-l
+Built for zither-building-craft professionals who are tired of spending hours building a system before you can actually use it.  Mobile-optimized for Notion iOS and Android — works everywhere you work. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Zither Building Craft Design Log — fully con
